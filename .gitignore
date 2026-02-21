@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Data & Insights
+*.csv
+!customer_feedback.txt # ignore generated csvs
+models_list.txt
+full_models.txt
+all_models_verbose.txt
+
+# Streamlit
+.streamlit/
+static/
+
+# IDEs
+.vscode/
+.idea/
