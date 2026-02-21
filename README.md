@@ -65,4 +65,4 @@ streamlit run app.py
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome/GitHub]
+Desenvolvido com ❤️ por **Demorojao**
