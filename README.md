@@ -16,11 +16,6 @@ Um analisador inteligente de feedbacks que vai além do "bom ou ruim". Utilizand
 - **Dashboard Premium**: Visualização em tempo real com KPIs e gráficos dinâmicos.
 - **Segurança**: Gestão de credenciais via variáveis de ambiente (.env).
 
-## 📸 Preview do Dashboard
-
-<p align="center">
-  <img src=".github/preview.png" alt="Dashboard Preview" width="800">
-</p>
 
 ## 🚀 Como Rodar o Projeto
 
